@@ -17,8 +17,8 @@ The repo also provides charts for SHapely Additive exPlanations (SHAP) values.
 
 ## Future Work
 
-- [] Add pipeline to check the impact of data preprocessing
-- [] Add other models for benchmarking
+- [ ] Add pipeline to check the impact of data preprocessing
+- [ ] Add other models for benchmarking
 
 
 ## References 
