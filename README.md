@@ -1,7 +1,6 @@
 # Catboost
-Main advantages of CatBoost:
---------------
-Implementing Catboost for titanic dataset.
+
+## Implementing Catboost for Titanic Dataset
 
 The motivation for using Catboost was Sits superior quality when [compared](https://github.com/catboost/benchmarks/blob/master/README.md) with other gradient boosting methods for many benchmark datasets.
 
